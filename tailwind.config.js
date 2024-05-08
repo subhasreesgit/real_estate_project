@@ -12,6 +12,12 @@ export default {
         xxl:"1.75rem",
         xxxl:"2.25rem"
 
+      },
+
+      backgroundImage: {
+        'team-bg-image': "url('/Group 18.png')",
+       
+        
       }
     },
   },
